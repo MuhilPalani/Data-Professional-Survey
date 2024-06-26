@@ -26,3 +26,7 @@ Visualizations included:
 # Output
 
 The final product is an interactive Power BI dashboard that allows users to explore and gain insights from the survey data. The visualizations provide a clear understanding of demographic distributions, salary comparisons, and challenges in entering the data profession.
+
+# Power BI Dashboard
+
+<img width="1166" alt="Data Professionals Survey Breakdown" src="https://github.com/MuhilPalani/Data-Professional-Survey/assets/169348593/26b4033c-db73-4aa6-af00-6559fe150372">
