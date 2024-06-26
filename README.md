@@ -13,9 +13,11 @@ The Data Professional Survey Breakdown project showcases a comprehensive approac
 # Data Upload and Cleaning:
 
 Utilized Power Query to upload and clean the survey data, ensuring accuracy and consistency for analysis.
-Dashboard Creation:
 
-# Developed an interactive Power BI dashboard to effectively visualize and explore key metrics from the survey data.
+
+# Dashboard Creation:
+
+Developed an interactive Power BI dashboard to effectively visualize and explore key metrics from the survey data.
 Visualizations included:
 
 1. Demographics: Displayed using stacked bar charts.
