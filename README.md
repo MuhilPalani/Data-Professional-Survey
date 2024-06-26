@@ -18,9 +18,9 @@ Dashboard Creation:
 2. Developed an interactive Power BI dashboard to effectively visualize and explore key metrics from the survey data.
 Visualizations included:
 
-Demographics: Displayed using stacked bar charts.
-Average Salaries: Compared using clustered column charts.
-Career Entry Difficulty: Represented with tree maps, gauge charts, and donut charts.
+a. Demographics: Displayed using stacked bar charts.
+b. Average Salaries: Compared using clustered column charts.
+c. Career Entry Difficulty: Represented with tree maps, gauge charts, and donut charts.
 
 
 # Output
